@@ -1,0 +1,51 @@
+#################################################################################################
+#												#
+#												#
+#				CONFIGURE GNU LINUX 1.0						#
+#												#
+#					GNU GPL V.3						#
+#												#
+#################################################################################################
+
+This file is part of Configuration GNU Linux  V.2.0   
+
+Configuration GNU Linux script V.2.0 is free software: you can redistribute it and/or modify
+
+it under the terms of the GNU General Public License as published by
+
+the Free Software Foundation, either version 3 of the License, or
+
+(at your option) any later version.
+
+Configuration GNU Linux script V.2.0 is distributed in the hope that it will be useful,
+
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+
+along with Configuration GNU Linux script V.2.0 If not, see <http://www.gnu.org/licenses/>.
+
+3###############################################################################################
+
+#########################
+# 			#	
+#      RUN SCRIPT       #
+#			#
+#########################
+
+
+1) must be started as root, put in the terminal "su -" or sudo su
+
+2) Then assign execute permissions to the script, put "chmod + x configure_linux_1.0.sh"
+
+3) Now run the script "./configure_linux_1.0.sh"
+
+4) In the script, select the GNU Linux, set the username and remain attentive to the installation.
+
+
+
+
