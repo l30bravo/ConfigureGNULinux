@@ -1,0 +1,20 @@
+p   dpsyco-samba                    - Automate administration of access to samba
+p   fusiondirectory-plugin-samba    - samba3 plugin for FusionDirectory         
+p   fusiondirectory-plugin-samba-sc - LDAP schema for FusionDirectory samba plug
+p   gadmin-samba                    - GTK+ configuration tool for samba         
+p   gadmin-samba-dbg                - GTK+ configuration tool for samba (debug) 
+p   gosa-plugin-samba               - samba3 plugin for GOsa²                   
+i A python-samba                    - Python bindings for Samba                 
+v   python2.7-samba                 -                                           
+i   samba                           - SMB/CIFS file, print, and login server for
+v   samba-client                    -                                           
+i A samba-common                    - common files used by both the Samba server
+i A samba-common-bin                - Samba common files used by both the server
+p   samba-dbg                       - Samba debugging symbols                   
+p   samba-dev                       - tools for extending Samba                 
+p   samba-doc                       - Samba documentation                       
+i A samba-dsdb-modules              - Samba Directory Services Database         
+i A samba-libs                      - Samba core libraries                      
+p   samba-testsuite                 - test suite from Samba                     
+i A samba-vfs-modules               - Samba Virtual FileSystem plugins          
+i A vlc-plugin-samba                - Samba plugin for VLC                      
