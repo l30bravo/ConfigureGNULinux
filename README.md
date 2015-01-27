@@ -6,7 +6,7 @@ Bash scripts to install Web server, printer, SSH, Valid also for Desktop and Not
 
 #Installation
 
-First you must download the code from here.
+First you must download the code from here [Versiós 3.0](https://github.com/l30bravo/ConfigureGNULinux/archive/master.zip).
 
 Then as root or sudo to run the "run.sh" script
 
