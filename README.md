@@ -5,8 +5,11 @@ Bash scripts to install Web server, printer, SSH, Valid also for Desktop and Not
 #Instalación:
 
 First you must download the code from here.
+
 Then as root or sudo to run the "run.sh" script
+
 Select the type of machine you want to configure Desktop / Server
+
 Select the GNU Linux OS distribution
 
 ###Installing Desktop
