@@ -1,3 +1,5 @@
+![Alt text](http://www.leobravo.cl/wp-content/uploads/2015/01/ConfigureGNULinux.png "Configure GNU Linux 3.0")
+
 #ConfigureGNULinux
 
 Bash scripts to install Web server, printer, SSH, Valid also for Desktop and Notebook
