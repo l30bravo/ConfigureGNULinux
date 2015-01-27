@@ -2,7 +2,7 @@
 
 Bash scripts to install Web server, printer, SSH, Valid also for Desktop and Notebook
 
-#Instalación:
+#Installation
 
 First you must download the code from here.
 
@@ -40,3 +40,6 @@ Select the GNU Linux OS distribution
 3)-Install PostgreSQL
 
 
+#Run
+
+exec "./run.sh" as sudo or root
