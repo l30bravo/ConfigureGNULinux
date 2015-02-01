@@ -19,7 +19,6 @@ echo "##################################"
 echo "UPDATING SYSTEM"
 echo "##################################"
 sudo apt-get update
-sudo apt-get update
 
 
 echo "1)-Configure Printers"
